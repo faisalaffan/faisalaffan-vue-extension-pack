@@ -1,0 +1,15 @@
+{
+  "name": "faisalaffan-vue-extension-pack",
+  "displayName": "faisalaffan-vue-extension-pack",
+  "description": "Faisal Affan Vue Extension Pack For Develop Clean Architecture",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "publisher.extensionName"
+  ]
+}
