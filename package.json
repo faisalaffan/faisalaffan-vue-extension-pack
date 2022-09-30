@@ -3,13 +3,19 @@
   "displayName": "faisalaffan-vue-extension-pack",
   "description": "Faisal Affan Vue Extension Pack For Develop Clean Architecture",
   "version": "0.0.1",
+  "publisher": "faisalaffan",
   "engines": {
     "vscode": "^1.71.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/faisalaffan/faisalaffan-vue-extension-pack"
+  },
   "extensionPack": [ 
-    "publisher.extensionName"
+    "octref.vetur"
   ]
 }
